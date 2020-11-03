@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background: rgba(187, 203, 198, 0.33);
+}
+
+header {
+	background: #235b8c;
+}
+
+#banner {
+    background: #f1e067;
+}
+
+#banner .button {
+	border: 1px solid #fec800;
+}
+
+#banner .fork {
+    background-color: rgba(187, 203, 198, 0.33);
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}

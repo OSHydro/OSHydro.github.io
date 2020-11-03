@@ -1,0 +1,5 @@
+theme: jekyll-theme-leap-day
+title: OSHydro
+description: Open Source Hydro initiative
+plugins:
+  - jekyll-seo-tag
