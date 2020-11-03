@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
 title: OSHydro
-description: Open Source Hydro initiative
+description: An Open Source Initiative for Hydrography
 plugins:
   - jekyll-seo-tag

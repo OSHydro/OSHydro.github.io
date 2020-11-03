@@ -2,8 +2,8 @@
 
 ![logo](resources/banner.2400x600.png){: .center-image }
 
-The Open Source Hydro (OSHydro) is an initiative to support the adoption of open source solutions
-in the hydrographic field.
+The Open Source Hydro (OSHydro) is an initiative foster collaboration and open source software development 
+within the hydrographic surveying and ocean mapping community.
 
 
 ***
@@ -35,6 +35,9 @@ they should follow the cutting edge of research development.
 
 The OSHydro initiative is completely open to involvement from anyone with interest. For more information, contact the [facilitators](#initiative-facilitators)
 
+This [wiki](https://github.com/OSHydro/Project-Listing/wiki) provides links and information about relevant projects. Feel free to edit and add your projects to the wiki.
+
+For discussions and announcements related to the OSHydro initiative, join the [Google Group](https://groups.google.com/forum/#!forum/oshydro).
 
 ***
 
