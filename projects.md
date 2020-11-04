@@ -1,3 +1,3 @@
-## OSHydro's Projects
+## Projects
 
 * [Sussie](projects/sussie/1.2.4.md)
