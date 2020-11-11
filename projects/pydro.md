@@ -1,6 +1,6 @@
 ### Pydro
 
-![logo](resources/pydro.png){: .center-image }
+![logo](../resources/pydro.png){: .center-image }
 
 Pydro Explorer organizes a wide range of Python Based tools for hydrography developed by 
 OCS Hydrographic Systems and Technologies Branch (HSTB). 
