@@ -1,6 +1,6 @@
 ### HydrOffice
 
-![logo](resources/hydroffice.png){: .center-image }
+![logo](../resources/hydroffice.png){: .center-image }
 
 HydrOffice represents an open-source collaborative effort led by the Center for Coastal and 
 Ocean Mapping to develop a research software environment with applications to facilitate 
