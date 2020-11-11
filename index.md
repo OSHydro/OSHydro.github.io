@@ -35,7 +35,7 @@ they should follow the cutting edge of research development.
 
 The OSHydro initiative is completely open to involvement from anyone with interest. For more information, contact the [facilitators](#initiative-facilitators)
 
-This [wiki](https://github.com/OSHydro/Project-Listing/wiki) provides links and information about relevant projects. Feel free to edit and add your projects to the wiki.
+This [page](projects.md) provides links and information about relevant projects. Feel free to edit the page on [GitHub](https://github.com/OSHydro/OSHydro.github.io/blob/master/projects.md) adding your projects.
 
 For discussions and announcements related to the OSHydro initiative, join the [Google Group](https://groups.google.com/forum/#!forum/oshydro).
 
