@@ -6,6 +6,10 @@ This list is sorted alphabetically.
 
 * [BAG](projects/bag.md)
 
+### H
+
+* [HydrOffice](projects/hydroffice.md)
+
 ### P
 
 * [Pydro](projects/pydro.md)
