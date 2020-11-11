@@ -7,5 +7,5 @@ Open Source Hydro website
 |
 
 * Code Repository: `github <https://github.com/oshydro.github.io/>`_
-* Project Page: `url <https://oshydro.github.io/>`_
+* Project Page: `url <https://www.oshydro.org/>`_
 * License: `CC BY-SA 4.0 <https://raw.githubusercontent.com/oshydro/oshydro.github.io/master/LICENSE>`_
