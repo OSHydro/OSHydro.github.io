@@ -11,4 +11,4 @@ and [website](http://opennavsurf.org/).
 
 ***
 
-[![Back to Projects](../resources/back.png)](../projects.md)
+[![Back to Projects](../resources/back.png)](../projects.html)

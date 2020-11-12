@@ -21,4 +21,4 @@ This list is sorted alphabetically.
 
 ***
 
-[![Go to Main Page](resources/home.png)](index.md)
+[![Go to Main Page](resources/home.png)](index.html)

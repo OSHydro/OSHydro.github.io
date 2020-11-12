@@ -11,4 +11,4 @@ Most HydrOffice tools are also available in the NOAA [Pydro](pydro.md) distribut
 
 ***
 
-[![Back to Projects](../resources/back.png)](../projects.md)
+[![Back to Projects](../resources/back.png)](../projects.html)

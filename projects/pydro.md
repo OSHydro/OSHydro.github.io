@@ -14,4 +14,4 @@ HSTB aims to move the modules to GitHub in 2020.
 
 ***
 
-[![Back to Projects](../resources/back.png)](../projects.md)
+[![Back to Projects](../resources/back.png)](../projects.html)
