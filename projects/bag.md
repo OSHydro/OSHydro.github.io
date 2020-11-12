@@ -8,3 +8,7 @@ The [navigation surface](https://en.wikipedia.org/wiki/Navigation_surface) is im
 
 See more details on the [GitHub repository](https://github.com/OpenNavigationSurface) 
 and [website](http://opennavsurf.org/).
+
+***
+
+[![Back to Projects](../resources/back.png)](../projects.md)

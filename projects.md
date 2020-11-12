@@ -19,5 +19,6 @@ This list is sorted alphabetically.
 * [Sussie](projects/sussie/1.2.4.md)
 
 
+***
 
-[[Go to Main Page](resources/home.png)](index.md)
+[![Go to Main Page](resources/home.png)](index.md)
