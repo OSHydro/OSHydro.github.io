@@ -1,10 +1,11 @@
 ## Projects
 
-This list is sorted alphabetically.
+This list is sorted alphabetically. Go [here](projects_by_type.md) for a list sorted by type.
 
 ### B
 
 * [BAG](projects/bag.md)
+* [BAG Explorer](projects/bag_explorer.md)
 
 ### H
 

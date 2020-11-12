@@ -1,13 +1,13 @@
 ## The Bathymetric Attributed Grid (BAG) Library
 
-![logo](../resources/bag.jpg){: .center-image }
+![logo](../resources/bag_explorer.png){: .center-image }
 
-The [navigation surface](https://en.wikipedia.org/wiki/Navigation_surface) is implemented as the 
-[Bathymetric Attributed Grid](https://en.wikipedia.org/wiki/Bathymetric_attributed_grid) 
-(BAG) file for storage of gridded hydrographic data.
+BAG Explorer is a light application, based on HDF Compass and the HydrOffice BAG tools library, to explore the content 
+of files in Bathymetric Attributed Grid format. 
 
-See more details on the [GitHub repository](https://github.com/OpenNavigationSurface) 
-and [website](http://opennavsurf.org/).
+It is part of the [HydrOffice framework](hydroffice.md).
+
+See more details on [this page](https://www.hydroffice.org/bag/main).
 
 ***
 

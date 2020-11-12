@@ -33,7 +33,7 @@ they should follow the cutting edge of research development.
 
 ### Get Involved
 
-The OSHydro initiative is completely open to involvement from anyone with interest. For more information, contact the [facilitators](#initiative-facilitators)
+The OSHydro initiative is completely open to involvement from anyone with interest. For more information, contact the [facilitators](#initiative-facilitators).
 
 This [page](projects.md) provides links and information about relevant projects. Feel free to edit the page on [GitHub](https://github.com/OSHydro/OSHydro.github.io/blob/master/projects.md) adding your projects.
 
