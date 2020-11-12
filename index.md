@@ -37,6 +37,8 @@ The OSHydro initiative is completely open to involvement from anyone with intere
 
 This [page](projects.md) provides links and information about relevant projects. Feel free to edit the page on [GitHub](https://github.com/OSHydro/OSHydro.github.io/blob/master/projects.md) adding your projects.
 
+[![projects](resources/projects.png){: .center-image }](projects.html)
+
 For discussions and announcements related to the OSHydro initiative, join the [Google Group](https://groups.google.com/forum/#!forum/oshydro).
 
 ***
