@@ -1,0 +1,19 @@
+.. _sussie-submission-checks-label:
+
+Submission Checks
+-----------------
+
+This tool checks the folder structure of a survey dataset.
+
+.. index::
+    single: Submission Checks
+
+.. _tab_submission_checks:
+.. figure:: ./_static/tab_submission_checks.png
+    :width: 600px
+    :align: center
+    :alt: submission checks
+    :figclass: align-center
+
+    The *Submission Checks* tab.
+

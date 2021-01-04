@@ -1,0 +1,45 @@
+.. _sussie-hashing-label:
+
+Hashing
+-------
+
+.. index::
+    single: Hashing
+
+This tools has two main functionalities:
+
+* It creates the hash for the files with the selected extensions.
+* It checks that those hashes are still valid after having moved the dataset folder.
+
+The task is to verify that no file corruption occurred during the handling (e.g., copying/moving) of the survey data files.
+
+.. _tab_hashing:
+.. figure:: ./_static/tab_hashing.png
+    :width: 600px
+    :align: center
+    :alt: hashing
+    :figclass: align-center
+
+    The *Hashing* tab.
+
+Which hashing algorithm should we use?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+For the large majority of our needs, it should be sufficient to use the simplest (and quickest) one: `SHA1 <https://en.wikipedia.org/wiki/SHA-1>`_.
+
+The following table provides some indicative computation times after a test performed by hashing 100 FAU files (with a total size of about 20 GB):
+
+=================================================== ===========================
+                Hashing Algorithm                        Computation Time
+=================================================== ===========================
+SHA1                                                1.5 mins
+SHA224                                              1.9 mins
+SHA256                                              2.8 mins
+=================================================== ===========================
+
+Which file extensions should we hash?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+At least, we should hash the FAU raw files.
+
+It is possible to hash all the files by putting “.*” in the “File Extensions“ field, but the computation time will increase.

@@ -1,0 +1,15 @@
+In brief
+========
+
+.. image:: _static/sussie.png
+    :width: 128px
+    :height: 128px
+    :align: center
+    :alt: logo
+
+.. index::
+    single: bathymetric grid
+    single: hydrographic survey
+
+The Support Utility for Survey Submission Integrity Evaluation (Sussie) app is a collection of tools providing
+functionalities to handle hydrographic survey data.

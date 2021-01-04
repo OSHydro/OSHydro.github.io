@@ -1,0 +1,10 @@
+.. _credits-label:
+
+Credits
+=======
+
+Feel free to contact us for comments and suggestions:
+
+* `Giuseppe Masetti <mailto:gimas@gst.dk>`_
+* `Philip Sigaard Christiansen <mailto:phsic@gst.dk>`_
+* `Ove Andersen <mailto:ovand@gst.dk>`_

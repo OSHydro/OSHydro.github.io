@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2.3. Hashing &#8212; Sussie 1.4.0 documentation</title>
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/hyo2.css" type="text/css" />
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="2.4. Data Explorer" href="user_manual_data_explorer.html" />
+    <link rel="prev" title="2.2. Submission Checks" href="user_manual_submission_checks.html" /> 
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="user_manual_data_explorer.html" title="2.4. Data Explorer"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="user_manual_submission_checks.html" title="2.2. Submission Checks"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Sussie 1.4.0 documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="user_manual.html" accesskey="U"><span class="section-number">2. </span>User Manual</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href=""><span class="section-number">2.3. </span>Hashing</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+<div class="deck">
+
+    <p>
+    This document describes the Sussie application (1.4). For the project page,
+    <a href="https://www.oshydro.org/projects/sussie.html">go here</a>.
+    </p>
+
+</div>
+    <div class="section" id="hashing">
+<span id="sussie-hashing-label"></span><h1><span class="section-number">2.3. </span>Hashing<a class="headerlink" href="#hashing" title="Permalink to this headline">¶</a></h1>
+<p id="index-0">This tools has two main functionalities:</p>
+<ul class="simple">
+<li><p>It creates the hash for the files with the selected extensions.</p></li>
+<li><p>It checks that those hashes are still valid after having moved the dataset folder.</p></li>
+</ul>
+<p>The task is to verify that no file corruption occurred during the handling (e.g., copying/moving) of the survey data files.</p>
+<div class="align-center figure" id="id1">
+<span id="tab-hashing"></span><a class="reference internal image-reference" href="_images/tab_hashing.png"><img alt="hashing" src="_images/tab_hashing.png" style="width: 600px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 2.3 </span><span class="caption-text">The <em>Hashing</em> tab.</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
+</div>
+<div class="section" id="which-hashing-algorithm-should-we-use">
+<h2><span class="section-number">2.3.1. </span>Which hashing algorithm should we use?<a class="headerlink" href="#which-hashing-algorithm-should-we-use" title="Permalink to this headline">¶</a></h2>
+<p>For the large majority of our needs, it should be sufficient to use the simplest (and quickest) one: <a class="reference external" href="https://en.wikipedia.org/wiki/SHA-1">SHA1</a>.</p>
+<p>The following table provides some indicative computation times after a test performed by hashing 100 FAU files (with a total size of about 20 GB):</p>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 65%" />
+<col style="width: 35%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Hashing Algorithm</p></th>
+<th class="head"><p>Computation Time</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>SHA1</p></td>
+<td><p>1.5 mins</p></td>
+</tr>
+<tr class="row-odd"><td><p>SHA224</p></td>
+<td><p>1.9 mins</p></td>
+</tr>
+<tr class="row-even"><td><p>SHA256</p></td>
+<td><p>2.8 mins</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="which-file-extensions-should-we-hash">
+<h2><span class="section-number">2.3.2. </span>Which file extensions should we hash?<a class="headerlink" href="#which-file-extensions-should-we-hash" title="Permalink to this headline">¶</a></h2>
+<p>At least, we should hash the FAU raw files.</p>
+<p>It is possible to hash all the files by putting “.*” in the “File Extensions“ field, but the computation time will increase.</p>
+</div>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper"><p class="logo"><a href="index.html">
+  <img class="logo" src="_static/favicon.png" alt="Logo"/>
+</a></p>
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="user_manual_submission_checks.html"
+                        title="previous chapter"><span class="section-number">2.2. </span>Submission Checks</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="user_manual_data_explorer.html"
+                        title="next chapter"><span class="section-number">2.4. </span>Data Explorer</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/user_manual_hashing.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="user_manual_data_explorer.html" title="2.4. Data Explorer"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="user_manual_submission_checks.html" title="2.2. Submission Checks"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Sussie 1.4.0 documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="user_manual.html" ><span class="section-number">2. </span>User Manual</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href=""><span class="section-number">2.3. </span>Hashing</a></li> 
+      </ul>
+    </div>
+
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2021, OSHydro team.
+    </div>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-57787642-2', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+  </body>
+</html>

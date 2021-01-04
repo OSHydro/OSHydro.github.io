@@ -1,0 +1,16 @@
+.. _sussie-inputs-label:
+
+Inputs
+------
+
+Drag and drop the folder where the survey dataset is located to activate the available tools.
+
+.. _tab_inputs:
+.. figure:: ./_static/tab_inputs.png
+    :width: 600px
+    :align: center
+    :alt: data inputs
+    :figclass: align-center
+
+    The *Inputs* tab.
+
