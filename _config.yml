@@ -3,9 +3,3 @@ title: OSHydro
 description: An Open Source Initiative for Hydrography
 plugins:
   - jekyll-seo-tag
-include:
-    - _images
-    - _sources
-    - _static
-    - _modules
-    - _templates
