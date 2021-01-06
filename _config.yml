@@ -4,3 +4,4 @@ description: An Open Source Initiative for Hydrography
 google_analytics: UA-57787642-6
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
