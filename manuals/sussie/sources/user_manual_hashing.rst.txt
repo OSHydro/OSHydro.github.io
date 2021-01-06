@@ -14,7 +14,7 @@ This tools has two main functionalities:
 The task is to verify that no file corruption occurred during the handling (e.g., copying/moving) of the survey data files.
 
 .. _tab_hashing:
-.. figure:: ./_static/tab_hashing.png
+.. figure:: ./static/tab_hashing.png
     :width: 600px
     :align: center
     :alt: hashing

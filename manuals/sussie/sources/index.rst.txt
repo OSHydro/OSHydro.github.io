@@ -20,4 +20,4 @@ Sussie documentation
 
 
 .. note::
-    © OSHydro team, 2021.  All rights reserved.
+    © Sussie Dev Team, 2021.  All rights reserved.
