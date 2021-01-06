@@ -1,6 +1,6 @@
 ## Sussie
 
-![logo](../resources/sussie.png){: .center-image }
+![logo](../../resources/sussie.png){: .center-image }
 
 The Support Utility for Survey Submission Integrity Evaluation (Sussie) app is a collection of tools providing functionalities to handle hydrographic survey data.
 

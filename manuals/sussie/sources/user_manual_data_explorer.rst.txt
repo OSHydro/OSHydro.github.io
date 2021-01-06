@@ -11,7 +11,7 @@ You can also use this tool to detect the presence of positional outliers.
     single: Data Explorer
 
 .. _tab_data_explorer:
-.. figure:: ./_static/tab_data_explorer.png
+.. figure:: ./static/tab_data_explorer.png
     :width: 600px
     :align: center
     :alt: data explorer
