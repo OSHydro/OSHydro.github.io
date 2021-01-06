@@ -17,7 +17,7 @@ This list is sorted alphabetically. Go [here](projects_by_type.md) for a list so
 
 ### S
 
-* [Sussie](projects/sussie/1.2.4.md)
+* [Sussie](projects/sussie/index.md)
 
 
 ***

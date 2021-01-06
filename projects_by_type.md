@@ -14,7 +14,7 @@ This list is sorted by type. Go [here](projects.md) for a list sorted alphabetic
 ### Applications
 
 * [BAG Explorer](projects/bag_explorer.md)
-* [Sussie](projects/sussie/1.2.4.md)
+* [Sussie](projects/sussie/index.md)
 
 
 ***
