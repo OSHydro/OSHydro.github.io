@@ -16,6 +16,10 @@ This list is sorted by type. Go [here](projects.md) for a list sorted alphabetic
 * [BAG Explorer](projects/bag_explorer.md)
 * [Sussie](projects/sussie/index.md)
 
+### Plugins and addons
+
+* [Cruise Tools](projects/CruiseTools.md)
+
 
 ***
 
