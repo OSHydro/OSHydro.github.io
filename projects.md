@@ -15,6 +15,10 @@ This list is sorted alphabetically. Go [here](projects_by_type.md) for a list so
 
 * [Pydro](projects/pydro.md)
 
+### Q
+
+* [Cruise Tools](projects/CruiseTools.md)
+
 ### S
 
 * [Sussie](projects/sussie/index.md)
