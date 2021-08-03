@@ -14,7 +14,7 @@ GLOBE provides a wide array of processing modules for bathymetric data, includin
     - Generating digital elevation models.
     - Vector and raster data manipulation
 
-Currently Kongsberg (.all and kmall) as well as Reson (s7K) format can be imported into GLOBE
+Currently Kongsberg (.all and kmall) as well as Reson (s7K) formats can be directly imported into GLOBE
 
 It is developed in Java by Poncelet Cyrille, Billant Gael, Corre Marie-Paule at IFREMER (France) and free available under a LGPLv3 licence
 
