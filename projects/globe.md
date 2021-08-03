@@ -1,34 +1,26 @@
-## Cruise Tools. A QGIS plugin for ocean mappers.
+## GLOBE, an open source solution for multibeam data processing and visualization
 
 
+![logo](../resources/globe.png){: .center-image }
 
-![logo](../resources/QGIS_cruiseTools_logo.png){: .center-image }
+GLOBE (GLobal Oceanographic Bathymetry Explorer) is a desktop software for for processing and displaying multibeam, seismic and other geospatial data
 
-Cruise Tools is a plugin for QGIS 3.x aimed to help the ocean mapper to  perform the following reoccurring tasks just in few clicks:
+GLOBE provides a wide array of processing modules for bathymetric data, including:
 
- - Loading, coloring and shading bathymetry grids
+    - Interactive point cloud data cleaning (subset editor)
+    - Multibeam time series visualization
+    - Correction for tides
+    - Water column detections visualization
+    - Generating digital elevation models.
+    - Vector and raster data manipulation
 
- - Exporting colored and shaded RGB grids
+Currently Kongsberg (.all and kmall) as well as Reson (s7K) format can be imported into GLOBE
 
- - Calculating raster coverage
+It is developed in Java by Poncelet Cyrille, Billant Gael, Corre Marie-Paule at IFREMER (France) and free available under a LGPLv3 licence
 
- - Creating smooth filtered contours
+GLOBE is currently being deployed on all IFREMER ships and also used by the European project EMODnet Hydrography for manipulating and creating digital elevation models.
 
- - Generating DD, DDM, and XY coordinate attributes for point features
-
- - Generating length (m, km, and nm) attributes for line features
-
- - Generating area (m2 and km2) attributes for polygon feature
-
- - Estimating MBES coverage on a specific DEM
-
- - Exporting the survey lines plan to the navigation system
-
-  
-
-It is developed by Simon Dreutter and  Fynn Warnke  (Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research.)
-
-More information and download links [here](https://github.com/simondreutter/cruisetools) 
+More information and download links [here](https://www.flotteoceanographique.fr/en/Facilities/Shipboard-software/Analyse-et-traitement-de-l-information/GLOBE) 
 
 ***
 
