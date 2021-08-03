@@ -14,6 +14,7 @@ This list is sorted by type. Go [here](projects.md) for a list sorted alphabetic
 ### Applications
 
 * [BAG Explorer](projects/bag_explorer.md)
+* [GLOBE](projects/globe.md)
 * [Sussie](projects/sussie/index.md)
 
 ### Plugins and addons
