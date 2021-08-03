@@ -7,6 +7,9 @@ This list is sorted alphabetically. Go [here](projects_by_type.md) for a list so
 * [BAG](projects/bag.md)
 * [BAG Explorer](projects/bag_explorer.md)
 
+### G
+* [GLOBE](projects/globe.md)
+
 ### H
 
 * [HydrOffice](projects/hydroffice.md)
