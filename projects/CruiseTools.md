@@ -32,5 +32,5 @@ More information and download links [here](https://github.com/simondreutter/crui
 
 ***
 
-[![Back to Projects](../resources/back.png)](../projects.html)
+[![Back to Projects](../resources/back.png)](../projects.md)
 
