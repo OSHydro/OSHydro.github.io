@@ -3,7 +3,7 @@
 
 ![logo](../resources/globe.png){: .center-image }
 
-GLOBE (GLobal Oceanographic Bathymetry Explorer) is a desktop software for for processing and displaying multibeam, seismic and other geospatial data
+GLOBE (GLobal Oceanographic Bathymetry Explorer) is a desktop software for processing and displaying multibeam, seismic and other geospatial data
 
 GLOBE provides a wide array of processing modules for bathymetric data, including:
 
