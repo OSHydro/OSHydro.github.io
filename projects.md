@@ -2,6 +2,10 @@
 
 This list is sorted alphabetically. Go [here](projects_by_type.md) for a list sorted by type.
 
+### A
+
+* [AMUST](projects/amust.md)
+  
 ### B
 
 * [BAG](projects/bag.md)
