@@ -16,6 +16,7 @@ This list is sorted by type. Go [here](projects.md) for a list sorted alphabetic
 * [AMUST](projects/amust.md)
 * [BAG Explorer](projects/bag_explorer.md)
 * [GLOBE](projects/globe.md)
+* [MBsystem](projects/mbsystem.md)
 * [Sussie](projects/sussie/index.md)
 
 ### Plugins and addons

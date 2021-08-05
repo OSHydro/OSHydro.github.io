@@ -47,5 +47,6 @@ For discussions and announcements related to the OSHydro initiative, join the [G
 
 * [Damian Manda (NOAA Office of Coast Survey)](mailto:damian.manda@noaa.gov)
 * [Giuseppe Masetti (Danish Geodata Agency)](mailto:gimas@gst.dk)
+* [Jose Cordero (Instituto Hidrográfico de la Marina)](mailto:jcorros@fn.mde.es)
 
 ***
