@@ -24,5 +24,5 @@ More information and download links [here](https://www.flotteoceanographique.fr/
 
 ***
 
-[![Back to Projects](../resources/back.png)](../projects.md)
+[![Back to Projects](../resources/back.png)](../projects.html)
 
