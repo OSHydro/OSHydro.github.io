@@ -7,6 +7,10 @@ This list is sorted by type. Go [here](projects.md) for a list sorted alphabetic
 * [HydrOffice](projects/hydroffice.md)
 * [Pydro](projects/pydro.md)
 
+### Other initiatives 
+
+* [FOSSOM](projects/FOSSOM.md)
+  
 ### Libraries
 
 * [BAG](projects/bag.md)
