@@ -1,4 +1,4 @@
-### HydrOffice
+### Free and Open Source Software for Ocean Mapping (FOSSOM)
 
 ![logo](../resources/FOSSOM.png){: .center-image }
 
