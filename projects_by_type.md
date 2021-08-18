@@ -21,6 +21,7 @@ This list is sorted by type. Go [here](projects.md) for a list sorted alphabetic
 * [BAG Explorer](projects/bag_explorer.md)
 * [GLOBE](projects/globe.md)
 * [MBsystem](projects/mbsystem.md)
+* [OpenSideScan](projects/opensidescan.md)
 * [Sussie](projects/sussie/index.md)
 
 ### Plugins and addons
