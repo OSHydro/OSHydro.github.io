@@ -25,6 +25,10 @@ This list is sorted alphabetically. Go [here](projects_by_type.md) for a list so
 
 * [MBsystem](projects/mbsystem.md)
 
+### O
+
+* [OpenSideScan](projects/opensidescan.md)
+
 ### P
 
 * [Pydro](projects/pydro.md)
