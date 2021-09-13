@@ -8,7 +8,7 @@ https://www.researchgate.net/project/Free-and-open-source-tools-for-ocean-mappin
 
 #### The use case of the Spanish Exclusive Economic Zone ####
 
-[![The use case of the Spanish Exclusive Economic Zone](./FOSSOM/media/Hesperides2.png)](./FOSSOM/DeepOcean.md)
+[![The Use Case of the Spanish Exclusive Economic Zone mapping project](../FOSSOM/media/Hesperides2.png)](./FOSSOM/DeepOcean.md)
 
 ***
 
