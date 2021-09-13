@@ -1,6 +1,6 @@
 ## The case of the Spanish Exclusive Economic Zone mapping survey 2021 
 
-### **Introduction** ###
+### **Introduction** 
 
 The ZEEE project, standing for Spanish Exclusive Economic Zone in Spanish language, started in 1995 as the most intensive effort to map and explore the Spanish seafloor. The main objectives are to obtain an improved multibeam bathymetric cartography of the areas off Spanish coastlines and to perform a comprehensive geophysical survey including gravity geomagnetism and low-penetration seismic techniques. The data acquisition is carried out one month a year aboard RV “Hesperides” (Spanish Navy/CSIC). This ship is equipped with an MBES Kongsberg EM122, which is the most used system for deepwater mapping. The ZEEE working group consists of personnel from the Hydrographic Institute of the Spanish Navy (IHM), Spanish Oceanographic Institute (IEO),  Naval Observatory (ROA), Geological and Mining Institute of Spain, University Complutense of Madrid (UCM), and other research centers.
 
