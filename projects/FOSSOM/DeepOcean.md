@@ -6,12 +6,12 @@ The ZEEE project, standing for Spanish Exclusive Economic Zone in Spanish langua
 
 More information about RV “Hesperides” can be found here: http://www.utm.csic.es/en/instalaciones/hes
 
-![logo](../media/Hesperides1.png){: .center-image }
+![logo](./media/Hesperides1.png){: .center-image }
 
 The ZEEE-2021 cruise took place from March 27th to April 24th . The study area had a surface of 70,500 km2 , comprising seafloors more than 4000 m deep in the north of the Canary Islands (Spain),  and including submarine features such as the Last Minute and Dacia seamounts
 
 
-![logo](../media/surveyArea1.png){: .center-image }
+![logo](./media/surveyArea1.png){: .center-image }
 
 
 
