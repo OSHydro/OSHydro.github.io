@@ -1,4 +1,4 @@
-## The case of the Spanish Exclusive Economic Zone mapping survey 2021 ##
+## The case of the Spanish Exclusive Economic Zone mapping survey 2021 
 
 ### **Introduction** ###
 
