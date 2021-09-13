@@ -14,6 +14,7 @@ The ZEEE-2021 cruise took place from March 27th to April 24th . The study area h
 ![map](./media/surveyArea1.png){: .center-image }
 
 
+[![Back to Projects](../resources/back.png)](../projects.html)
 
 
-![logo](../resources/FOSSOM.png){: .center-image }
+
