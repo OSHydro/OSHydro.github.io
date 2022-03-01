@@ -5,7 +5,7 @@ Data Explorer
 
 This tool provides means to explorer and check data files (both FAU and FU2 formats).
 
-You can also use this tool to detect the presence of positional outliers.
+You can also use this tool to detect the presence of duplicate points and/or positional outliers.
 
 .. index::
     single: Data Explorer
