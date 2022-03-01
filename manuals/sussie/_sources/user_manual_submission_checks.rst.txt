@@ -9,7 +9,7 @@ This tool checks the folder structure of a survey dataset.
     single: Submission Checks
 
 .. _tab_submission_checks:
-.. figure:: ./static/tab_submission_checks.png
+.. figure:: ./_static/tab_submission_checks.png
     :width: 600px
     :align: center
     :alt: submission checks

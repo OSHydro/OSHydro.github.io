@@ -8,3 +8,4 @@ Feel free to contact us for comments and suggestions:
 * `Giuseppe Masetti <mailto:gimas@gst.dk>`_
 * `Philip Sigaard Christiansen <mailto:phsic@gst.dk>`_
 * `Ove Andersen <mailto:ovand@gst.dk>`_
+* `James Peter Harris <mailto:japeh@gst.dk>`_
