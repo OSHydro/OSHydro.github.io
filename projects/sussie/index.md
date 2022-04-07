@@ -8,7 +8,7 @@ Sussie represents an open-source (*MIT License*) collaborative effort led by the
 
 The source code is publicly available here: [Bitbucket repo](https://bitbucket.org/geodatastyrelsen/sussie/src/master/)
 
-Current release: [1.7.5](1.7.5.html)
+Current release: [1.8.0](1.8.0.html)
 
 For more information on how to use Sussie, read the [online manual](https://www.oshydro.org/manuals/sussie/index.html).
 
