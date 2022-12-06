@@ -6,7 +6,7 @@ Inputs
 Drag and drop the folder where the survey dataset is located to activate the available tools.
 
 .. _tab_inputs:
-.. figure:: ./static/tab_inputs.png
+.. figure:: ./_static/tab_inputs.png
     :width: 600px
     :align: center
     :alt: data inputs
