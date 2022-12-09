@@ -1,16 +1,18 @@
 
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>3.2. How to build the documentation &#8212; Sussie 1.7.5 documentation</title>
-    <link rel="stylesheet" href="static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="static/hyo2.css" type="text/css" />
-    <script id="documentation_options" data-url_root="./" src="static/documentation_options.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>3.2. How to build the documentation &#8212; Sussie 1.9.2 documentation</title>
+    <link rel="stylesheet" type="text/css" href="static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="static/hyo2.css" />
+    <script data-url_root="./" id="documentation_options" src="static/documentation_options.js"></script>
     <script src="static/jquery.js"></script>
     <script src="static/underscore.js"></script>
+    <script src="static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="static/doctools.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -29,7 +31,7 @@
         <li class="right" >
           <a href="developer_guide_how_to_contribute.html" title="3.1. How to contribute"
              accesskey="P">previous</a> |</li>
-        <li class="nav-item nav-item-0"><a href="index.html">Sussie 1.7.5 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Sussie 1.9.2 documentation</a> &#187;</li>
           <li class="nav-item nav-item-1"><a href="developer_guide.html" accesskey="U"><span class="section-number">3. </span>Developer’s guide</a> &#187;</li>
         <li class="nav-item nav-item-this"><a href=""><span class="section-number">3.2. </span>How to build the documentation</a></li> 
       </ul>
@@ -43,31 +45,31 @@
 <div class="deck">
 
     <p>
-    This document describes the Sussie application (1.7). For the project page,
+    This document describes the Sussie application (1.9). For the project page,
     <a href="https://www.oshydro.org/projects/sussie/index.html">go here</a>.
     </p>
 
 </div>
-    <div class="section" id="how-to-build-the-documentation">
-<h1><span class="section-number">3.2. </span>How to build the documentation<a class="headerlink" href="#how-to-build-the-documentation" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="requirements">
-<h2><span class="section-number">3.2.1. </span>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h2>
+    <section id="how-to-build-the-documentation">
+<h1><span class="section-number">3.2. </span>How to build the documentation<a class="headerlink" href="#how-to-build-the-documentation" title="Permalink to this heading">¶</a></h1>
+<section id="requirements">
+<h2><span class="section-number">3.2.1. </span>Requirements<a class="headerlink" href="#requirements" title="Permalink to this heading">¶</a></h2>
 <p>The documentation is built using <code class="docutils literal notranslate"><span class="pre">sphinx</span></code>, so you need to have it:</p>
 <ul class="simple">
 <li><p><code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">sphinx</span> <span class="pre">sphinx-autobuild</span></code></p></li>
 </ul>
-</div>
-<div class="section" id="first-time-creation-of-documentation-template">
-<h2><span class="section-number">3.2.2. </span>First-time creation of documentation template<a class="headerlink" href="#first-time-creation-of-documentation-template" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="first-time-creation-of-documentation-template">
+<h2><span class="section-number">3.2.2. </span>First-time creation of documentation template<a class="headerlink" href="#first-time-creation-of-documentation-template" title="Permalink to this heading">¶</a></h2>
 <p>Just once for each project, you can create the documentation template as follows:</p>
 <ul class="simple">
 <li><p><code class="docutils literal notranslate"><span class="pre">mkdir</span> <span class="pre">docs</span></code></p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">docs</span></code></p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">sphinx-quickstart</span></code></p></li>
 </ul>
-</div>
-<div class="section" id="generate-the-documentation">
-<h2><span class="section-number">3.2.3. </span>Generate the documentation<a class="headerlink" href="#generate-the-documentation" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="generate-the-documentation">
+<h2><span class="section-number">3.2.3. </span>Generate the documentation<a class="headerlink" href="#generate-the-documentation" title="Permalink to this heading">¶</a></h2>
 <p>To create the html:</p>
 <ul class="simple">
 <li><p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">html</span></code></p></li>
@@ -76,8 +78,8 @@
 <ul class="simple">
 <li><p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">latexpdf</span></code></p></li>
 </ul>
-</div>
-</div>
+</section>
+</section>
 
 
             <div class="clearer"></div>
@@ -88,12 +90,16 @@
         <div class="sphinxsidebarwrapper"><p class="logo"><a href="index.html">
   <img class="logo" src="static/favicon.png" alt="Logo"/>
 </a></p>
-  <h4>Previous topic</h4>
-  <p class="topless"><a href="developer_guide_how_to_contribute.html"
-                        title="previous chapter"><span class="section-number">3.1. </span>How to contribute</a></p>
-  <h4>Next topic</h4>
-  <p class="topless"><a href="license.html"
-                        title="next chapter"><span class="section-number">4. </span>License</a></p>
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="developer_guide_how_to_contribute.html"
+                          title="previous chapter"><span class="section-number">3.1. </span>How to contribute</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="license.html"
+                          title="next chapter"><span class="section-number">4. </span>License</a></p>
+  </div>
   <div role="note" aria-label="source link">
     <h3>This Page</h3>
     <ul class="this-page-menu">
@@ -105,12 +111,12 @@
   <h3 id="searchlabel">Quick search</h3>
     <div class="searchformwrapper">
     <form class="search" action="search.html" method="get">
-      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
       <input type="submit" value="Go" />
     </form>
     </div>
 </div>
-<script>$('#searchbox').show(0);</script>
+<script>document.getElementById('searchbox').style.display = "block"</script>
         </div>
       </div>
       <div class="clearer"></div>
@@ -127,7 +133,7 @@
         <li class="right" >
           <a href="developer_guide_how_to_contribute.html" title="3.1. How to contribute"
              >previous</a> |</li>
-        <li class="nav-item nav-item-0"><a href="index.html">Sussie 1.7.5 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-0"><a href="index.html">Sussie 1.9.2 documentation</a> &#187;</li>
           <li class="nav-item nav-item-1"><a href="developer_guide.html" ><span class="section-number">3. </span>Developer’s guide</a> &#187;</li>
         <li class="nav-item nav-item-this"><a href=""><span class="section-number">3.2. </span>How to build the documentation</a></li> 
       </ul>

@@ -1,7 +1,7 @@
 In brief
 ========
 
-.. image:: static/sussie.png
+.. image:: _static/sussie.png
     :width: 128px
     :height: 128px
     :align: center

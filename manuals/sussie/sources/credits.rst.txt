@@ -9,3 +9,4 @@ Feel free to contact us for comments and suggestions:
 * `Philip Sigaard Christiansen <mailto:phsic@gst.dk>`_
 * `Ove Andersen <mailto:ovand@gst.dk>`_
 * `James Peter Harris <mailto:japeh@gst.dk>`_
+* `Lasse Mondberg Schwenger <mailto:lamon@gst.dk>`_
