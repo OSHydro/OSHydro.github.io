@@ -7,5 +7,4 @@ User Manual
 
     user_manual_inputs
     user_manual_submission_checks
-    user_manual_hashing
     user_manual_data_explorer

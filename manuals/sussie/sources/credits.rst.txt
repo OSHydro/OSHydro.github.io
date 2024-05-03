@@ -6,7 +6,10 @@ Credits
 Feel free to contact us for comments and suggestions:
 
 * `Giuseppe Masetti <mailto:gimas@gst.dk>`_
-* `Philip Sigaard Christiansen <mailto:phsic@gst.dk>`_
-* `Ove Andersen <mailto:ovand@gst.dk>`_
-* `James Peter Harris <mailto:japeh@gst.dk>`_
 * `Lasse Mondberg Schwenger <mailto:lamon@gst.dk>`_
+* `Jonas Madsen <mailto:jomad@gst.dk>`_
+* `Kristian V. Kristmar <mailto:krkri@gst.dk>`_
+* `Nicki R. Andreasen <mailto:nirib@gst.dk>`_
+* `Ove Andersen <mailto:ovand@gst.dk>`_
+* `Philip S. Christiansen <mailto:phsic@gst.dk>`_
+* `Sotirios Skarpalezos <mailto:soska@gst.dk>`_
